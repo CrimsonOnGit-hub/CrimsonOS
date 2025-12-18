@@ -53,7 +53,7 @@ puts:
     ret
 
 
-;ts pmo
+;ts pmo bro
 main:
     
     ;setup data segments here and my rabbit thumped while typing this for no reason
